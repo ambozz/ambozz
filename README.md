@@ -1,2 +1,2 @@
 ### Hi 👋, I'm amboss.
-#### (amboss.dev)[https://amboss.dev/]
+#### [amboss.dev](https://amboss.dev/)
