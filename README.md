@@ -3,8 +3,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ambozz&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="ambozz's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambozz&layout=compact&hide_border=true&theme=github_dark" /> |
 | ------------- | ------------- |
 
-### Links
-[amboss.dev](https://amboss.dev/)
+# [amboss.dev](https://amboss.dev/)
 
 ### Donate
 | <img height="50px" width="50px" src="https://amboss.dev/icons/crypto/doge.svg"> | D94vvJJMvRGhbgzFDDVU296C2mBMjbhqSH |
