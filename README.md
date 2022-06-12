@@ -5,3 +5,6 @@
 
 ### Links
 [amboss.dev](https://amboss.dev/)
+
+### Donate
+<img src="https://amboss.dev/icons/crypto/doge.svg">
